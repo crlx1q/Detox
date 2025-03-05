@@ -1,0 +1,18 @@
+{
+    "title": "Detox Settings",
+    "autostart": "Start Detox automatically when logging in",
+    "show_breaks": "Show breaks:",
+    "in_window": "In window",
+    "fullscreen": "Fullscreen",
+    "exercise_tips": "Show exercise ideas during breaks",
+    "break_all_screens": "Show breaks on all screens",
+    "track_idle": "Track system idle time",
+    "dnd_mode": "Show breaks even in 'Do Not Disturb' mode",
+    "select_language": "Select language:",
+    "save_settings": "Save settings",
+    "reset_defaults": "Restore default settings",
+    "top_buttons": ["Settings", "Schedule", "Theme", "About", "Support Detox"],
+    "restart_popup": "Changes will take effect \nafter restarting the application.",
+    "ok": "OK",
+    "cancel": "Cancel"
+}

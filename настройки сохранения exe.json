@@ -1,0 +1,77 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/alish/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/Detox/detox beta1.2.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/alish/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/Detox/detox.ico"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/alish/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/Detox/en.json;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/alish/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/Detox/ru.json;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/alish/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/Detox/settings.json;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/alish/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/Detox/detox.png;."
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
